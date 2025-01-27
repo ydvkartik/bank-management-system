@@ -18,7 +18,7 @@ mysql-connector-python library
 
 Simple Operations
 
-Create Account: Enter account number, name, city, and mobile number.
-Deposit Money: Input amount to deposit into the account.
-Withdraw Money: Input amount to withdraw from the account.
-View Account: Displays account details and balance.
+1. Create Account: Enter account number, name, city, and mobile number.
+2. Deposit Money: Input amount to deposit into the account.
+3. Withdraw Money: Input amount to withdraw from the account.
+4. View Account: Displays account details and balance.
