@@ -17,6 +17,7 @@ mysql-connector-python library
 2. Set up MySQL
 
 Simple Operations
+
 Create Account: Enter account number, name, city, and mobile number.
 Deposit Money: Input amount to deposit into the account.
 Withdraw Money: Input amount to withdraw from the account.
